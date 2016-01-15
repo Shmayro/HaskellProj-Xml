@@ -1,0 +1,268 @@
+<body><pagetitle>Publications MOVE</pagetitle>
+<info>
+  <authors>
+    <author>Florent Avellaneda</author>
+    <author>Rémi Morin</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1007/978-3-319-07734-5_14">Exhibition of a Structural Bug with Wings. </title>
+  <venue url="db/conf/apn/pn2014.html#AvellanedaM14" conference="Petri Nets" pages="253-272">Petri Nets 2014:253-272</venue>
+  <year>2014</year>
+  <type>inproceedings</type>
+</info>
+<info>
+  <authors>
+    <author>Clara Bertolissi</author>
+    <author>Maribel Fernández</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1016/j.ic.2014.07.009">A metamodel of access control for distributed environments: Applications and properties. </title>
+  <venue url="db/journals/iandc/iandc238.html#BertolissiF14" journal="Inf. Comput. (IANDC)" pages="187-207" volume="238">Inf. Comput. (IANDC) 238:187-207 (2014)</venue>
+  <year>2014</year>
+  <type>article</type>
+</info>
+<info>
+  <authors>
+    <author>Clara Bertolissi</author>
+    <author>Silvio Ranise</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1504/IJITST.2014.065188">A SMT-based methodology for monitoring of
+  security-aware workflows. </title>
+  <venue>Int. J. Internet Technology and Secured
+Transactions, Vol. 5, No. 3, 2014</venue>
+  <year>2014</year>
+  <type>article</type>
+</info>
+<info>
+  <authors>
+    <author>Johann Brault-Baron</author>
+    <author>Florent Capelli</author>
+    <author>Stefan Mengel</author>
+  </authors>
+  <title ee="http://arxiv.org/abs/1405.6043">Understanding model counting for $β$-acyclic CNF-formulas. </title>
+  <venue url="db/journals/corr/corr1405.html#Brault-BaronCM14" journal="CoRR" volume="abs/1405.6043">CoRR abs/1405.6043 (2014)</venue>
+  <year>2014</year>
+  <type>article</type>
+</info>
+<info>
+  <authors>
+    <author>Krishnendu Chatterjee</author>
+    <author>Laurent Doyen 0001</author>
+    <author>Hugo Gimbert</author>
+    <author>Youssouf Oualhadj</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1007/978-3-642-54830-7_14">Perfect-Information Stochastic Mean-Payoff Parity Games. </title>
+  <venue url="db/conf/fossacs/fossacs2014.html#Chatterjee0GO14" conference="FOSSACS" pages="210-225">FoSSaCS 2014:210-225</venue>
+  <year>2014</year>
+  <type>inproceedings</type>
+</info>
+<info>
+  <authors>
+    <author>Thomas Colcombet</author>
+    <author>Laure Daviaud</author>
+    <author>Florian Zuleger</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1007/978-3-662-44522-8_18">Size-Change Abstraction and Max-Plus Automata. </title>
+  <venue url="db/conf/mfcs/mfcs2014-1.html#ColcombetDZ14" conference="MFCS" pages="208-219">MFCS 2014:208-219</venue>
+  <year>2014</year>
+  <type>inproceedings</type>
+</info>
+<info>
+  <authors>
+    <author>Luc Dartois</author>
+    <author>Charles Paperman</author>
+  </authors>
+  <title ee="http://arxiv.org/abs/1401.6576">Adding modular predicates. </title>
+  <venue url="db/journals/corr/corr1401.html#DartoisP14" journal="CoRR" volume="abs/1401.6576">CoRR abs/1401.6576 (2014)</venue>
+  <year>2014</year>
+  <type>article</type>
+</info>
+<info>
+  <authors>
+    <author>Julien Ferté</author>
+    <author>Nathalie Marin</author>
+    <author>Géraud Sénizergues</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1007/s00224-013-9489-5">Word-Mappings of Level 2. </title>
+  <venue url="db/journals/mst/mst54.html#FerteMS14" journal="Theory Comput. Syst. (MST)" pages="111-148" number="1" volume="54">Theory Comput. Syst. (MST) 54(1):111-148 (2014)</venue>
+  <year>2014</year>
+  <type>article</type>
+</info>
+<info>
+  <authors>
+    <author>Julien Ferté</author>
+  </authors>
+  <title>Régularité et contraintes de descendance, équations
+  algébriques. </title>
+  <venue>Aix-Marseille Université, le 18 avril 2014</venue>
+  <year>2014</year>
+  <type>phdthesis</type>
+</info>
+<info>
+  <authors>
+    <author>Nathanaël Fijalkow</author>
+    <author>Hugo Gimbert</author>
+    <author>Florian Horn</author>
+    <author>Youssouf Oualhadj</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1007/978-3-662-44522-8_23">Two Recursively Inseparable Problems for Probabilistic Automata. </title>
+  <venue url="db/conf/mfcs/mfcs2014-1.html#FijalkowGHO14" conference="MFCS" pages="267-278">MFCS 2014:267-278</venue>
+  <year>2014</year>
+  <type>inproceedings</type>
+</info>
+<info>
+  <authors>
+    <author>Emmanuel Filiot</author>
+    <author>Pierre-Alain Reynier</author>
+  </authors>
+  <title ee="http://arxiv.org/abs/1412.0537">On Streaming String Transducers and HDT0L Systems. </title>
+  <venue url="db/journals/corr/corr1412.html#FiliotR14" journal="CoRR" volume="abs/1412.0537">CoRR abs/1412.0537 (2014)</venue>
+  <year>2014</year>
+  <type>article</type>
+</info>
+<info>
+  <authors>
+    <author>Jérôme Fortier</author>
+  </authors>
+  <title>Puissance expressive des preuves circulaires. </title>
+  <venue>Université du Québec à Montréal, le 19 décembre 2014</venue>
+  <year>2014</year>
+  <type>phdthesis</type>
+</info>
+<info>
+  <authors>
+    <author>Séverine Fratani</author>
+    <author>El Makki Voundy</author>
+  </authors>
+  <title ee="http://arxiv.org/abs/1409.6112">Context-free characterization of Indexed Languages. </title>
+  <venue url="db/journals/corr/corr1409.html#FrataniV14" journal="CoRR" volume="abs/1409.6112">CoRR abs/1409.6112 (2014)</venue>
+  <year>2014</year>
+  <type>article</type>
+</info>
+<info>
+  <authors>
+    <author>Sabine Frittella</author>
+    <author>Alessandra Palmigiano</author>
+    <author>Luigi Santocanale</author>
+  </authors>
+  <title ee="http://arxiv.org/abs/1408.1843">Dual characterizations for finite lattices via correspondence theory for monotone modal logic. </title>
+  <venue url="db/journals/corr/corr1408.html#FrittellaPS14" journal="CoRR" volume="abs/1408.1843">CoRR abs/1408.1843 (2014)</venue>
+  <year>2014</year>
+  <type>article</type>
+</info>
+<info>
+  <authors>
+    <author>Sabine Frittella</author>
+    <author>Luigi Santocanale</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1007/978-3-319-06251-8_27">Fixed-Point Theory in the Varieties $\mathcal{D}_{n}$. </title>
+  <venue url="db/conf/RelMiCS/ramics2014.html#FrittellaS14" conference="RAMICS" pages="446-462">RAMICS 2014:446-462</venue>
+  <year>2014</year>
+  <type>inproceedings</type>
+</info>
+<info>
+  <authors>
+    <author>Sabine Frittella</author>
+  </authors>
+  <title>Monotone modal logic and friends. </title>
+  <venue>Aix-Marseille Université, le 1 décembre 2014</venue>
+  <year>2014</year>
+  <type>phdthesis</type>
+</info>
+<info>
+  <authors>
+    <author>Hugo Gimbert</author>
+    <author>Youssouf Oualhadj</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1007/978-3-319-04298-5_25">Deciding the Value 1 Problem for $\sharp$ -acyclic Partially Observable Markov Decision Processes. </title>
+  <venue url="db/conf/sofsem/sofsem2014.html#GimbertO14" conference="SOFSEM" pages="281-292">SOFSEM 2014:281-292</venue>
+  <year>2014</year>
+  <type>inproceedings</type>
+</info>
+<info>
+  <authors>
+    <author>Stephane Martin</author>
+    <author>Tomasz Buchert</author>
+    <author>Pierric Willemet</author>
+    <author>Olivier Richard</author>
+    <author>Emmanuel Jeanvoine</author>
+    <author>Lucas Nussbaum</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1109/IPDPSW.2014.191">Scalable and Reliable Data Broadcast with Kascade. </title>
+  <venue url="db/conf/ipps/ipdps2014w.html#MartinBWRJN14" conference="IPDPS Workshops" pages="1717-1726">IPDPS Workshops 2014:1717-1726</venue>
+  <year>2014</year>
+  <type>inproceedings</type>
+</info>
+<info>
+  <authors>
+    <author>Peter Niebert</author>
+    <author>Mathieu Caralp</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1007/978-3-319-13749-0_2">Cellular Programming. </title>
+  <venue url="db/conf/tpnc/tpnc2014.html#NiebertC14" conference="TPNC" pages="11-22">TPNC 2014:11-22</venue>
+  <year>2014</year>
+  <type>inproceedings</type>
+</info>
+<info>
+  <authors>
+    <author>Youssouf Oualhadj</author>
+    <author>Pierre-Alain Reynier</author>
+    <author>Ocan Sankur</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1007/978-3-662-44584-6_15">Probabilistic Robust Timed Games. </title>
+  <venue url="db/conf/concur/concur2014.html#OualhadjRS14" conference="CONCUR" pages="203-217">CONCUR 2014:203-217</venue>
+  <year>2014</year>
+  <type>inproceedings</type>
+</info>
+<info>
+  <authors>
+    <author>Pierre-Alain Reynier</author>
+    <author>Jean-Marc Talbot</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1007/978-3-319-09698-8_12">Visibly Pushdown Transducers with Well-Nested Outputs. </title>
+  <venue url="db/conf/dlt/dlt2014.html#ReynierT14" conference="Developments in Language Theory" pages="129-141">Developments in Language Theory 2014:129-141</venue>
+  <year>2014</year>
+  <type>inproceedings</type>
+</info>
+<info>
+  <authors>
+    <author>Luigi Santocanale</author>
+    <author>Friedrich Wehrung</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1016/j.ejc.2014.06.004">The extended permutohedron on a transitive binary relation. </title>
+  <venue url="db/journals/ejc/ejc42.html#SantocanaleW14" journal="Eur. J. Comb. (EJC)" pages="179-206" volume="42">Eur. J. Comb. (EJC) 42:179-206 (2014)</venue>
+  <year>2014</year>
+  <type>article</type>
+</info>
+<info>
+  <authors>
+    <author>Luigi Santocanale</author>
+    <author>Friedrich Wehrung</author>
+  </authors>
+  <title ee="http://dx.doi.org/10.1142/S021819671450043X">Lattices of regular closed subsets of closure spaces. </title>
+  <venue url="db/journals/ijac/ijac24.html#SantocanaleW14" journal="IJAC" pages="969-1030" number="7" volume="24">IJAC 24(7):969-1030 (2014)</venue>
+  <year>2014</year>
+  <type>article</type>
+</info>
+<info>
+  <authors>
+    <author>Worachet Uttha</author>
+    <author>Clara Bertolissi</author>
+    <author>Silvio Ranise</author>
+  </authors>
+  <title ee="http://ceur-ws.org/Vol-1298/paper13.pdf">Towards a Reference Architecture for Access Control in Distributed Web Applications. </title>
+  <venue url="db/conf/essos/ds2014.html#UtthaBR14" conference="ESSoS Doctoral Symposium">ESSoS Doctoral Symposium 2014</venue>
+  <year>2014</year>
+  <type>inproceedings</type>
+</info>
+<info>
+  <authors>
+    <author>Luc André</author>
+    <author>Stéphane Martin</author>
+    <author>Gérald Oster</author>
+    <author>Claudia-Lavinia Ignat</author>
+  </authors>
+  <title ee="http://ieeexplore.ieee.org/xpl/freeabs_all.jsp?arnumber=6679969">Supporting adaptable granularity of changes for massive-scale collaborative editing. </title>
+  <venue url="db/conf/colcom/colcom2013.html#AndreMOI13" conference="CollaborateCom" pages="50-59">CollaborateCom 2013:50-59</venue>
+  <year>2013</year>
+  <type>inproceedings</type>
+</info>
+</body>
